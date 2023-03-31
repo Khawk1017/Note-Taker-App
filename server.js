@@ -4,7 +4,6 @@ const path = require("path");
 const fs = require("fs");
 const util = require("util");
 const exp = require("constants");
-const { json } = require("sequelize");
 const { parse } = require("path");
 
 
