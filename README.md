@@ -11,7 +11,7 @@
 * [Tests](#tests)
 * [Questions](#questions)
 
-# Installtion
+# Installation
 The following necessary dependencies must be installed to run the application: Express js Node.js fs util 
 
 # Usage
